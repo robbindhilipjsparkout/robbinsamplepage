@@ -1,0 +1,112 @@
+/* index coding*/
+*{
+   padding: 0%;
+    margin: 0%;
+   
+    background-repeat: no-repeat;
+    background: center;
+}
+.head{
+
+     margin: 0%;
+     font-style: italic;
+     background-image: linear-gradient(to right,rgb(83, 252, 5),rgb(108, 236, 34),rgb(200, 228, 46),rgb(201, 231, 26));
+     padding: 10px 20px;
+     box-shadow: 2px 5px 10px rgb(18, 19, 18);
+}
+
+/*
+table {
+    background-color: rgb(4, 248, 114);
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.5);
+    border-radius: 10cm;
+
+}  */
+
+ form {
+    background-image: linear-gradient(to right,rgb(83, 252, 5),rgb(108, 236, 34),rgb(200, 228, 46),rgb(201, 231, 26));
+    max-width: 700px;
+    margin: 37px auto;
+    margin-bottom: 10%;
+    padding: 30px 10px 20px 10px;
+    box-shadow: 2px 5px 10px rgb(18, 19, 18);
+    border-radius: 10cm;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name1{
+    margin: 10px ;
+    padding: 10px 50px 10px;
+    border-radius: 20cm;
+    border-bottom: auto;
+    border-top: 10cm;
+    text-transform: uppercase;
+    color: black;
+    text-indent: 20%;
+
+}
+.name2{
+    margin: 5px 50px 15px 70px;
+    padding: 10px 30px 20px 10px;
+    border-radius: 10cm;
+}
+.name3{
+    margin: 10px 10px 0px 200px;
+    padding: 10px 20px ;
+    border-radius: 50cm;
+    
+}
+.name4{
+    margin-left: 9%;
+    border-radius: 10cm;
+    text-transform: uppercase;
+    padding: 10px 50px;
+}
+.name5{
+    margin-top: 10%;
+    padding: 100px 30px 200px 50px;
+    text-transform: uppercase;
+}
+.name6{
+    margin-left: 10%;
+    margin-top:5%;
+    border-radius: 80cm;
+    margin-bottom: 1%;
+    
+}
+
+
+/*
+ nav{
+
+    text-decoration: none;
+    position: relative;
+    padding-left: 10%;
+    font-size: medium;
+   
+}
+nav ul{
+    float: left;
+    background-color:rgb(4, 248, 114);
+    margin-left: 40%;
+    
+    text-decoration: none;
+}
+nav ul li{
+    margin-left: 0%;
+    background-color:rgb(4, 248, 114);
+    
+    text-decoration: none;
+}
+.b{
+    margin-left: 10%;
+    float: right;
+    padding-bottom: 10%;
+    text-decoration: none;
+    font-size: medium;
+}
+*/
